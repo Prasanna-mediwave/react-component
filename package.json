@@ -1,6 +1,6 @@
 {
   "name": "test-lib-component-react",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description": "test lib package",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
